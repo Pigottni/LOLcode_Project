@@ -1,4 +1,5 @@
 This code was written to lex, parse, and compile an interpreted language called "LOLcode".
+To use, run a testcase file outside of the Project folder.
 
 An abstract syntax tree is constructed in the parser based on valid language grammar. 
 A compile function was written for each of the nodes in the AST that converts the LOLcode into an intermediate code called "LMAOcode". 
